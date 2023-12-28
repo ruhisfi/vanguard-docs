@@ -1,4 +1,7 @@
 - [Overview](/)
+- [Examples](/examples/)
+  - [Correlation Rules](/examples/correlationrules/)
+    - [Azure: Successful Brute Force](/examples/correlationrules/azure-brute-force)
 - [Integrations](/integrations/)
   - [Azure](/integrations/azure)
   - [Slack](/integrations/slack)
@@ -9,3 +12,4 @@
   - [Playbook](/resources/playbook)
   - [SOAR Process](/resources/soarprocess)
   - [Tenant](/resources/tenant)
+  - [User](/resources/user)

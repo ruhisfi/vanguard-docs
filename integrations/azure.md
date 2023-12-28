@@ -31,3 +31,5 @@ Azure integration allows you to manage users and groups in Azure AD from Entra I
 1. Go to Vanguard Integrations page
 1. Copy the **Client ID**, **Client Secret** and **Tenant ID** from Entra ID to the corresponding fields in Vanguard
 1. Click **Save**
+1. Set up the Cloud Agent
+   - Copy the credentials to the configuration file on the Cloud Agent

@@ -2,7 +2,8 @@
 
 ## Overview
 
-Playbooks can be used to automate the response to incidents. They are made up of a series of steps, each of which can be a manual action or an automated action. Playbooks can be triggered automatically by criteria or manually.
+Playbooks can be used to automate the response to incidents. They are made up of a series of steps, each of which can be a manual action or an automated action.
+Playbooks can be triggered automatically by criteria or manually.
 
 ## Structure
 

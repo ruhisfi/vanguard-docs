@@ -2,7 +2,8 @@
 
 ## Overview
 
-Alerts are the core of the system. They are created by Correlation Rules, BIOCs, and IOCs. They can be grouped into [incidents](/resources/incident). Most of the fields can be null, because they might not always be available from the alert source.
+Alerts are the core of the system. They are created by Correlation Rules, BIOCs, and IOCs. They can be grouped into [incidents](/resources/incident).
+Most of the fields can be null, because they might not always be available from the alert source.
 
 ## Structure
 
