@@ -1,0 +1,4 @@
+- [Overview](/)
+- [Integrations](/integrations/)
+  - [Azure](/integrations/azure)
+  - [Slack](/integrations/slack)

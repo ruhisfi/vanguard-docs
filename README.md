@@ -1,0 +1,3 @@
+# Vanguard
+
+> An awesome project.
