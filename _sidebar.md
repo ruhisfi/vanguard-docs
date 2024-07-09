@@ -1,4 +1,7 @@
 - [Overview](/)
+- [v2](/v2/)
+  - [Integrations](/v2/integrations/)
+    - [Azure](/v2/integrations/azure)
 - [Examples](/examples/)
   - [Correlation Rules](/examples/correlationrules/)
     - [Azure: Successful Brute Force](/examples/correlationrules/azure-brute-force)
